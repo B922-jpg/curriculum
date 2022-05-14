@@ -50,8 +50,8 @@ Python is an easy-to-read language due to its similarity to English.
 Can you guess what this code will print if the user's answer is `"Maybe"`?
 
 ```python
-answer = input("Are you excited to learn Python?")
-if answer == "Yes":
+answer = input("What's your favorite thing to do?")
+if answer == "play basketball":
   print("That's the spirit! 🎉") 
 else:
   print("Don't give up, you're doing great! 🤗")
@@ -69,8 +69,8 @@ else:
 What will this code print if the user input is `"Maybe"`?
 
 ```python
-answer = input("Are you excited to learn Python?")
-if answer == "Yes":
+answer = input("What's your favorite thing to do?")
+if answer == "play basketball":
   print("That's the spirit! 🎉") 
 else:
   print("Don't give up, you're doing great! 🤗")
